@@ -98,14 +98,7 @@ Charts were used to support presentations and explain insights clearly to senior
 
 ## 📁 Project Structure  
 ```
-📦 Excel-Retail-Sales-Project
-│
-├── Retail_Sales_Analysis.xlsx
-├── Student_Grades_Table.xlsx
-├── Bike_Sales_Pivot_Lab.xlsx
-├── Bike_Sales_Visualisations.xlsx
-│
-└── README.md   ← You are here
+
 ```
 
 ---
