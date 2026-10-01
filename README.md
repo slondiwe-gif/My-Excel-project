@@ -1,4 +1,4 @@
-<img width="547" height="477" alt="Screenshot 2026-10-01 045020" src="https://github.com/user-attachments/assets/d5afe0ef-ddf4-4ea4-8b2b-baf23fa5748d" />
+
 # My-Excel-project
 Here’s a **GitHub‑ready README** for your **Excel project** from the Data Technician Bootcamp — written in clean, natural **Slondy style**, using the content from your workbook and highlighting all the skills you practised. It’s fully in **Markdown format**, ready to paste straight into GitHub.
 
@@ -46,7 +46,10 @@ I created multiple PivotTables to summarise data, including:
 PivotTables helped reveal patterns such as:  
 - Australia having sales across all markets  
 - Adult customers (35–64) being the strongest segment  
-- Gaps in France’s adult male market  
+- Gaps in France’s adult male market
+
+  <img width="383" height="160" alt="Screenshot 2026-10-01 050105" src="https://github.com/user-attachments/assets/3dd1d628-fe72-479b-87cc-5081ea67eca2" />
+
 
 ### 🔄 **SWITCH Function**  
 Used to categorise product sales volumes:  
@@ -67,6 +70,9 @@ Created charts from PivotTables to show:
 - Renewal‑stage customer loss (Day 4 analysis)
 
 Charts were used to support presentations and explain insights clearly to senior leaders.
+
+<img width="498" height="277" alt="Screenshot 2026-10-01 045855" src="https://github.com/user-attachments/assets/247f0819-e122-412c-bbc8-8e022f3508e7" />
+
 
 ---
 
