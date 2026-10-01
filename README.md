@@ -1,3 +1,4 @@
+<img width="547" height="477" alt="Screenshot 2026-10-01 045020" src="https://github.com/user-attachments/assets/d5afe0ef-ddf4-4ea4-8b2b-baf23fa5748d" />
 # My-Excel-project
 Here’s a **GitHub‑ready README** for your **Excel project** from the Data Technician Bootcamp — written in clean, natural **Slondy style**, using the content from your workbook and highlighting all the skills you practised. It’s fully in **Markdown format**, ready to paste straight into GitHub.
 
@@ -32,6 +33,8 @@ These formulas were used throughout tasks such as calculating student averages, 
 - Sorting customer ages from **largest to smallest**  
 - Filtering datasets to focus on specific groups  
 - Cleaning hidden spaces in numerical fields (e.g., Sales Volume)
+  <img width="555" height="482" alt="Screenshot 2026-10-01 045342" src="https://github.com/user-attachments/assets/da28bd7f-5a26-4c2a-8e8b-78122f5ffeb2" />
+
 
 ### 📊 **PivotTables**  
 I created multiple PivotTables to summarise data, including:  
